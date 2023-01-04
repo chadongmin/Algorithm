@@ -39,5 +39,8 @@
     <ClCompile Include="1065-한수.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="11047-동전0.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
