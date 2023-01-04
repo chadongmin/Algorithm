@@ -14,7 +14,7 @@ int main(void) {
 
 	for (int i = 0; i < num ;i++) {
 
-		scanf("%d", &arr[i]);             //동전의 값을 오름차순으로 입력
+		scanf("%d", &arr[i]);             //동전의 값을 오름차순으로 입력.
 
 	}
 	for (int i = num - 1; i  > -1; i--) {
