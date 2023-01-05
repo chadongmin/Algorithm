@@ -24,15 +24,9 @@ int main(void) {
 
 				if (i == S[k]) { // S[k]가 입력한 문자열이고 i는 알파벳이다.
 
-				//printf("%c %d\n", S[k], cnt);
-
-
-
-				//printf("%d", cnt);
-
-
-					result[i - 97] = k;
-					break;					//같은 것을 만나면 break 해주어야 한다. 덮어씌워지지 않게
+					result[S[k]- 97] = k;
+					break; //같아지면 for 문 탈출
+									
 				}
 
 			}
