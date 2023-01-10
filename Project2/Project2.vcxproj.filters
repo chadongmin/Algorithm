@@ -51,5 +51,8 @@
     <ClCompile Include="2675-문자열 반복.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="1157 - 단어공부.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
