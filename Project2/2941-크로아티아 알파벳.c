@@ -28,6 +28,7 @@ int main() {
 			else if (word[i] == '=' && word[i - 1] == 'z')
 				cro++;
 		}
+
 		if (i >= 2) {
 
 			if (word[i] == '=' && word[i - 1] == 'z' && word[i - 2] == 'd') {
