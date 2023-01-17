@@ -66,5 +66,8 @@
     <ClCompile Include="5622-다이얼.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="1712-손익분기점.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
